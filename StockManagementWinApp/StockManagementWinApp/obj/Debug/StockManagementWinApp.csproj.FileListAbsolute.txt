@@ -1,0 +1,41 @@
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe.config
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.pdb
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csprojAssemblyReference.cache
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CetagoryForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CompanyForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Home.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemReportForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.LoginForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.HomeUpdatedForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Properties.Resources.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockInForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.errorStockOut.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockReportForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.GenerateResource.cache
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CoreCompileInputs.cache
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.exe
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.pdb
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\itextsharp.dll
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe.config
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.pdb
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CetagoryForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CompanyForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Home.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemReportForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.LoginForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.HomeUpdatedForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Properties.Resources.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockInForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.errorStockOut.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockReportForm.resources
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.GenerateResource.cache
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.exe
+C:\Phase 2\Batch 3\Day18 Project\Dynamic Developers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.pdb
